@@ -1,0 +1,11 @@
+# Project exclude paths
+/cmake-build-gba/
+
+# Exclude IDE path
+/.idea
+
+# Exclude custom Makefile
+Makefile
+
+# Exclude game build
+GBAGame01.*
